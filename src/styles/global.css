@@ -33,7 +33,8 @@
     font-display: swap;
 }
 body {
-    font-family: "Atkinson", sans-serif;
+    /* font-family: "Atkinson", sans-serif; */
+    @apply font-mono;
     margin: 0;
     padding: 0;
     text-align: left;
